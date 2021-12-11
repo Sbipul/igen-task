@@ -21,7 +21,7 @@ const About = () => {
                         <div className='text-start'>
                             <h1>WE ARE CRYPTIC FATE</h1>
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia, quas veritatis dignissimos eos aut harum in itaque! Voluptates, dignissimos voluptatibus consectetur adipisi.</p>
-                            <Button className='shadow-lg text-light bg-primary rounded-pill'>Read more</Button>
+                            <Button className='shadow-lg text-dark bg-light rounded-pill'>Read more</Button>
                         </div>
                     </div>
                 </div>

@@ -1,8 +1,9 @@
 import React, { useEffect, useState } from 'react';
 import { Button, Container, Row } from 'react-bootstrap';
-import { useParams } from 'react-router-dom';
+import { Link, useParams } from 'react-router-dom';
 import Footer from '../../shared/Footer/Footer';
 import Header from '../../shared/Header.js/Header';
+
 
 const ServiceDetails = () => {
     const {id} = useParams()
@@ -43,7 +44,8 @@ const ServiceDetails = () => {
                 <div className="col-12 col-md-6">
                     <div  className='text-start'>
                         <p>{service?.details}</p>
-                        <Button className='rounded-pill py-2 px-3'>Grab Now</Button>
+                        <Button className='rounded-pill py-2 px-3 mx-2'>Grab Now</Button>
+                        <Link to="/home"><Button className='rounded-pill py-2 px-3 mx-2'>Previous</Button></Link>
                     </div>
                 </div>
             </div>

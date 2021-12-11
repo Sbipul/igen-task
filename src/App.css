@@ -42,6 +42,10 @@ ul{
   padding: 100px 0;
   color: white;
 }
+.active{
+  background: rgb(63, 104, 241);
+  color:white !important;
+}
 .contact{
   background-image: url('https://www.catenon.com/front/img/backgrounds/bg-contact.jpg');
   background-size: 100% 100%;

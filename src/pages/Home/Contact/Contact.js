@@ -37,7 +37,7 @@ const Contact = () => {
                         </div>
                     </div>
                     <div className="col-12 col-md-6">
-                        <div className='text-start bg-light p-4 rounded'>
+                        <div className='text-start border border-1 p-4 rounded'>
                             <Form>
                                 <Form.Group className="mb-3" controlId="formBasicName">
                                     <Form.Control type="text" placeholder="Your Name" />
@@ -49,7 +49,7 @@ const Contact = () => {
                                 <Form.Group className="mb-3" controlId="formBasicMessage">
                                     <textarea type="text" className='w-100 p-3' placeholder="Your Message" />
                                 </Form.Group>
-                                <Button variant="primary" type="submit">
+                                <Button variant="light" type="submit">
                                     Submit
                                 </Button>
                             </Form>

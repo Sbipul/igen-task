@@ -42,18 +42,39 @@
       "id": 4,
       "name": "Digital Marketing",
       "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYiKVI1ZwsfxqP1uifYQsWmEKiQAIjj3WsMMY2hjcbV-e6YoDqGqZ-oQTKUFzGbCLvuhY&usqp=CAU",
-      "des": "This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer."
+      "des": "This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+      "work" : [
+        "https://d1m75rqqgidzqn.cloudfront.net/wp-data/2020/03/24164357/iStock-974512548.jpg",
+        "https://industrytoday.com/wp-content/uploads/2021/08/digital-marketing-strategy-3.jpg",
+        "https://www.dimaservices.agency/wp-content/uploads/2020/10/image1.jpg",
+        "https://jenfi.com/wp-content/uploads/2021/05/s3-news-tmp-213062-hallam_digitalmarketing1-default-1280.jpeg"
+      ],
+      "details": "Lorem,  ipsum dolor sit amet consectetur adipisicing elit. Repellat, iusto. Eveniet inventore repellat dolores ut quo neque laudantium, nulla eligendi consequuntur quae architecto quia deserunt, aspernatur dicta nemo iure, quis fugit sunt blanditiis facer ipsum dolor sit amet consectetur adipisicing elit. Repellat, iusto. Eveniet inventore repellat dolores ut quo neque laudantium, nulla eligendi consequuntur quae architecto quia deserunt, aspernatur dicta nemo iure, quis fugit sunt blanditiis facere esse voluptate corrupti reprehenderit adipisci! Soluta fugiat itaque minus debitis ullam aut quaerat, laudantium et ipsum."
     },
     {
       "id": 5,
       "name": "Graphics Design",
       "img": "https://i.graphicmama.com/blog/wp-content/uploads/2019/10/03072330/logo-design-trends-2020-animated-black-and-white-logos-example-3.gif",
-      "des": "This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer."
+      "des": "This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+      "work" : [
+        "https://www.netleafinfosoft.com/our-blog/wp-content/uploads/2019/05/graphics-design.png",
+        "https://cdn6.f-cdn.com/files/download/129623135/how-build-.jpg",
+        "https://cdn.mos.cms.futurecdn.net/6bxva8DmZvNj8kaVrQZZMP.jpg",
+        "https://digitalmarketingdeal.com/blog/wp-content/uploads/2021/09/design2.jpg"
+      ],
+      "details": "Lorem,  ipsum dolor sit amet consectetur adipisicing elit. Repellat, iusto. Eveniet inventore repellat dolores ut quo neque laudantium, nulla eligendi consequuntur quae architecto quia deserunt, aspernatur dicta nemo iure, quis fugit sunt blanditiis facer ipsum dolor sit amet consectetur adipisicing elit. Repellat, iusto. Eveniet inventore repellat dolores ut quo neque laudantium, nulla eligendi consequuntur quae architecto quia deserunt, aspernatur dicta nemo iure, quis fugit sunt blanditiis facere esse voluptate corrupti reprehenderit adipisci! Soluta fugiat itaque minus debitis ullam aut quaerat, laudantium et ipsum."
     },
     {
       "id": 6,
       "name": "Block Chaining",
       "img": "https://media1.giphy.com/media/Wu4TiWLLFqxk4KMRiU/giphy.gif",
-      "des": "This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer."
+      "des": "This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+      "work" : [
+        "https://dynagrace.com/wp-content/uploads/2021/06/Blockchain.jpg",
+        "https://diamanteblockchain.com/media/wp-content/uploads/2019/12/blockchain-pe.jpg",
+        "https://www.irishtimes.com/polopoly_fs/1.4556195.1620229387!/image/image.jpg_gen/derivatives/box_620_330/image.jpg",
+        "https://blog.logrocket.com/wp-content/uploads/2021/11/blockchain-game-development.png"
+      ],
+      "details": "Lorem,  ipsum dolor sit amet consectetur adipisicing elit. Repellat, iusto. Eveniet inventore repellat dolores ut quo neque laudantium, nulla eligendi consequuntur quae architecto quia deserunt, aspernatur dicta nemo iure, quis fugit sunt blanditiis facer ipsum dolor sit amet consectetur adipisicing elit. Repellat, iusto. Eveniet inventore repellat dolores ut quo neque laudantium, nulla eligendi consequuntur quae architecto quia deserunt, aspernatur dicta nemo iure, quis fugit sunt blanditiis facere esse voluptate corrupti reprehenderit adipisci! Soluta fugiat itaque minus debitis ullam aut quaerat, laudantium et ipsum."
     }
   ]
