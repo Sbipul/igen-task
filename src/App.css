@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+}
+ul{
+  list-style: none;
+  text-align: left;
+  margin: 0;
+  padding: 0 !important;
+}
+::-webkit-scrollbar {
+  display: none;
+}
+.top-35{
+  top: 30%;
+}
+.bg{
+  background: rgba(39, 31, 25, 0.678);
+  color: white;
+}
+.ff{
+  font-family: 'Oswald', sans-serif;
+}
+.ff2{
+  font-family: 'Lobster', cursive;
+}
+.w-res{
+  width: 60%;
+}
+.custom-class{
+  clip-path: polygon(0 0, 100% 0, 100% 90%, 0% 100%);
+  overflow: hidden;
+}
+.clip{
+  clip-path: polygon(0 10%, 100% 0%, 100% 90%, 0% 100%);
+  background: rgb(126, 160, 211);
+  padding: 100px 0;
+  color: white;
+}
+.contact{
+  background-image: url('https://www.catenon.com/front/img/backgrounds/bg-contact.jpg');
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  object-fit: cover;
+}
+@media only screen and (max-width: 600px) {
+  .w-res{
+    width: 90%;
+  }
+}
