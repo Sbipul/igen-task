@@ -35,7 +35,7 @@ const Services = () => {
         }
     ]
     return (
-        <div className='py-5'>
+        <div id='service' className='py-5'>
             <Container>
                 <div className="text-start py-5">
                 <p className='m-0'>Our services</p>

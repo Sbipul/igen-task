@@ -4,7 +4,7 @@ import { FcCollect,FcPhone,FcFeedback } from "react-icons/fc";
 
 const Contact = () => {
     return (
-        <div className='contact clip'>
+        <div id='contact' className='contact clip'>
             <Container>
             <div className="text-end py-5">
                 <p className='m-0'>Contact Us</p>

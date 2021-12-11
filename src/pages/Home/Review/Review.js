@@ -52,7 +52,7 @@ const Review = () => {
         },
       ]
     return (
-        <div className='py-5'>
+        <div id='review' className='py-5'>
             <Container>
             <div className="text-start py-5">
                 <p className='m-0'>Clients Review</p>

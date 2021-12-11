@@ -3,7 +3,7 @@ import { Button, Container } from 'react-bootstrap';
 
 const About = () => {
     return (
-        <div className='clip'>
+        <div id='about' className='clip'>
             <Container>
             <div className="text-end">
                 <p className='m-0'>About Us</p>
