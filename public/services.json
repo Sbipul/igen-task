@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "name": "Web Design",
+      "img": "https://i.pinimg.com/originals/3e/da/60/3eda6034c384d28ff530ff3257ecaccc.gif",
+      "des": "This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+      "work": [
+        "https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/777124/0717_Brutalist_and_Minimalist_Web_Design_Lina_Social-cbd0996a3f2bef8b9b10b86e0c4fb9e5.png",
+        "https://assets.awwwards.com/awards/submissions/2020/09/5f5faa37e46ea485553805.png",
+        "https://www.probytes.net/wp-content/uploads/2018/02/25-Stunning-website-designs-of-2018-that-will-blow-you-away-1.jpg",
+        "https://i.pinimg.com/originals/23/fc/e3/23fce3fce6c4fc9f46aedb94c636015a.jpg"
+      ],
+      "details": "Lorem,  ipsum dolor sit amet consectetur adipisicing elit. Repellat, iusto. Eveniet inventore repellat dolores ut quo neque laudantium, nulla eligendi consequuntur quae architecto quia deserunt, aspernatur dicta nemo iure, quis fugit sunt blanditiis facer ipsum dolor sit amet consectetur adipisicing elit. Repellat, iusto. Eveniet inventore repellat dolores ut quo neque laudantium, nulla eligendi consequuntur quae architecto quia deserunt, aspernatur dicta nemo iure, quis fugit sunt blanditiis facere esse voluptate corrupti reprehenderit adipisci! Soluta fugiat itaque minus debitis ullam aut quaerat, laudantium et ipsum."
+    },
+    {
+      "id": 2,
+      "name": "Web Development",
+      "img": "https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif",
+      "des": "This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+      "work" : [
+        "https://www.manifera.com/wp-content/uploads/2020/09/Best-programming-languages-640x320-1.jpg",
+        "https://res.cloudinary.com/practicaldev/image/fetch/s--eXgVdE2K--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/ux6uf870i7esod0sx4sw.png",
+        "https://thumbs.dreamstime.com/b/javascript-concept-landing-page-programmers-using-programming-language-computer-tiny-people-engine-js-web-development-website-140538955.jpg",
+        "https://miro.medium.com/max/1400/1*VKHrFiCgdkw2Od8eHw_Khg.gif"
+      ],
+      "details": "Lorem,  ipsum dolor sit amet consectetur adipisicing elit. Repellat, iusto. Eveniet inventore repellat dolores ut quo neque laudantium, nulla eligendi consequuntur quae architecto quia deserunt, aspernatur dicta nemo iure, quis fugit sunt blanditiis facer ipsum dolor sit amet consectetur adipisicing elit. Repellat, iusto. Eveniet inventore repellat dolores ut quo neque laudantium, nulla eligendi consequuntur quae architecto quia deserunt, aspernatur dicta nemo iure, quis fugit sunt blanditiis facere esse voluptate corrupti reprehenderit adipisci! Soluta fugiat itaque minus debitis ullam aut quaerat, laudantium et ipsum."
+    },
+    {
+      "id": 3,
+      "name": "App Development",
+      "img": "https://cdn.dribbble.com/users/5976/screenshots/2217655/open-uri20150828-3-1n35494",
+      "des": "This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+      "work" : [
+        "https://buildfire.com/wp-content/uploads/2017/10/become-mobile-app-developer-1200x900.jpg",
+        "https://www.digitalauthority.me/wp-content/uploads/2019/04/shutterstock_572886535.jpg",
+        "https://5.imimg.com/data5/IP/QF/MY-9426320/mobile-application-development-500x500.jpg",
+        "https://www.cainfotechindia.com/webdesign_blog/wp-content/uploads/2020/07/PRESTASHOP12.png"
+      ],
+      "details": "Lorem,  ipsum dolor sit amet consectetur adipisicing elit. Repellat, iusto. Eveniet inventore repellat dolores ut quo neque laudantium, nulla eligendi consequuntur quae architecto quia deserunt, aspernatur dicta nemo iure, quis fugit sunt blanditiis facer ipsum dolor sit amet consectetur adipisicing elit. Repellat, iusto. Eveniet inventore repellat dolores ut quo neque laudantium, nulla eligendi consequuntur quae architecto quia deserunt, aspernatur dicta nemo iure, quis fugit sunt blanditiis facere esse voluptate corrupti reprehenderit adipisci! Soluta fugiat itaque minus debitis ullam aut quaerat, laudantium et ipsum."
+    },
+    {
+      "id": 4,
+      "name": "Digital Marketing",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYiKVI1ZwsfxqP1uifYQsWmEKiQAIjj3WsMMY2hjcbV-e6YoDqGqZ-oQTKUFzGbCLvuhY&usqp=CAU",
+      "des": "This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer."
+    },
+    {
+      "id": 5,
+      "name": "Graphics Design",
+      "img": "https://i.graphicmama.com/blog/wp-content/uploads/2019/10/03072330/logo-design-trends-2020-animated-black-and-white-logos-example-3.gif",
+      "des": "This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer."
+    },
+    {
+      "id": 6,
+      "name": "Block Chaining",
+      "img": "https://media1.giphy.com/media/Wu4TiWLLFqxk4KMRiU/giphy.gif",
+      "des": "This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer."
+    }
+  ]

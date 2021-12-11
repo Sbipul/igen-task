@@ -1,15 +1,13 @@
-import logo from './logo.svg';
 import './App.css';
-import Header from './shared/Header.js/Header';
 import Home from './pages/Home/Home/Home';
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
-import Footer from './shared/Footer/Footer';
+import ServiceDetails from './pages/ServiceDetails/ServiceDetails';
+import Error from './pages/Error/Error';
 
 function App() {
   return (
     <div className="App">
       <BrowserRouter>
-        <Header></Header>
         <Switch>
           <Route exact path="/">
             <Home></Home>
@@ -17,11 +15,14 @@ function App() {
           <Route path="/home">
             <Home></Home>
           </Route>
+          <Route path="/details/:id">
+            <ServiceDetails/>
+          </Route>
+          <Route path="*">
+            <Error/>
+          </Route>
         </Switch>
-        <Footer/>
       </BrowserRouter>
-        
-        
     </div>
   );
 }

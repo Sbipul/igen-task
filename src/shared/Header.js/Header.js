@@ -4,7 +4,7 @@ import { NavHashLink } from 'react-router-hash-link';
 
 const Header = () => {
     return (
-        <Navbar bg="light" expand="lg">
+        <Navbar className='shadow-lg' expand="lg">
   <Container>
     <Navbar.Brand className='fw-bold ff' style={{fontSize : '2rem'}} href="#home">CRYPTIC<span style={{fontSize : '2.5rem'}} className='text-primary'>FATE</span></Navbar.Brand>
     <Navbar.Toggle aria-controls="basic-navbar-nav" />

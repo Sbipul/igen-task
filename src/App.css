@@ -13,6 +13,9 @@ ul{
 .top-35{
   top: 30%;
 }
+.custom-height{
+  height: 25vh;
+}
 .bg{
   background: rgba(39, 31, 25, 0.678);
   color: white;
@@ -25,6 +28,9 @@ ul{
 }
 .w-res{
   width: 60%;
+}
+.hover{
+  cursor: pointer;
 }
 .custom-class{
   clip-path: polygon(0 0, 100% 0, 100% 90%, 0% 100%);
@@ -42,8 +48,16 @@ ul{
   background-attachment: fixed;
   object-fit: cover;
 }
+.error{
+  background: url('https://cdn.dribbble.com/users/3556928/screenshots/8726854/glitch-trial.gif');
+  background-size: 100% 100%;
+  object-fit: cover;
+}
 @media only screen and (max-width: 600px) {
   .w-res{
     width: 90%;
+  }
+  .custom-height{
+    height: 40vh;
   }
 }
