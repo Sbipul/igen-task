@@ -1,5 +1,6 @@
 import React from 'react';
 import { Container, Nav, Navbar, NavDropdown } from 'react-bootstrap';
+import { Link } from 'react-router-dom';
 import { NavHashLink } from 'react-router-hash-link';
 
 const Header = () => {
@@ -16,9 +17,9 @@ const Header = () => {
         <Nav.Link as={NavHashLink} to="#review">Happy Clients</Nav.Link>
         <Nav.Link as={NavHashLink} to="#contact">Contact</Nav.Link>
         <NavDropdown title="Profile" id="basic-nav-dropdown">
-          <NavDropdown.Item href="#action/3.1">Sign Up</NavDropdown.Item>
-          <NavDropdown.Item href="#action/3.2">Log in</NavDropdown.Item>
-          <NavDropdown.Item href="#action/3.3">Dashboard</NavDropdown.Item>
+          <NavDropdown.Item as={Link} to="/sign">Sign Up</NavDropdown.Item>
+          <NavDropdown.Item as={Link} to="/log">Log in</NavDropdown.Item>
+          <NavDropdown.Item as={Link} to="/dash">Dashboard</NavDropdown.Item>
         </NavDropdown>
       </Nav>
     </Navbar.Collapse>
