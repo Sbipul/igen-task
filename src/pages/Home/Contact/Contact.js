@@ -8,7 +8,7 @@ const Contact = () => {
             <Container>
             <div className="text-end py-5">
                 <p className='m-0'>Contact Us</p>
-                <h2>How you can find us</h2>
+                <h2>How you can find us?</h2>
                 </div>
                 <div className="row align-items-center">
                     <div className="col-12 col-md-6">
