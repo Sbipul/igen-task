@@ -23,7 +23,7 @@ const Contact = () => {
                             <div className='d-flex text-start align-items-center'>
                                 <FcPhone className='bg-light p-2 rounded-circle' style={{fontSize : '3rem'}}/>
                                 <div className='ms-3'>
-                                    <h6 className='m-0'>Phone</h6>
+                                    <h6 className='m-0'>PhonE</h6>
                                     <p>+454552-54152 <br /> or, 59656-645564</p>
                                 </div>
                             </div>
