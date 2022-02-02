@@ -16,7 +16,7 @@ const Contact = () => {
                             <div className='d-flex text-start align-items-center'>
                                 <FcCollect className='bg-light p-2 rounded-circle' style={{fontSize : '3rem'}}/>
                                 <div className='ms-3'>
-                                    <h6 className='m-0'>Address</h6>
+                                    <h6 className='m-0'>AddressS</h6>
                                     <p>House no 293, 39 road Mohakhali DOHS <br /> Dhaka Bangladesh</p>
                                 </div>
                             </div>
