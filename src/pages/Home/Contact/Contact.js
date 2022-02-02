@@ -30,7 +30,7 @@ const Contact = () => {
                             <div className='d-flex text-start align-items-center'>
                                 <FcFeedback className='bg-light p-2 rounded-circle' style={{fontSize : '3rem'}}/>
                                 <div className='ms-3'>
-                                    <h6 className='m-0'>Email</h6>
+                                    <h6 className='m-0'>Email address</h6>
                                     <p>xyz@gmail.com <br /> abcd@gmail.com</p>
                                 </div>
                             </div>
