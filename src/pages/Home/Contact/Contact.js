@@ -7,7 +7,7 @@ const Contact = () => {
         <div id='contact' className='contact clip'>
             <Container>
             <div className="text-end py-5">
-                <p className='m-0'>Contact US</p>
+                <p className='m-0'>Contact Us</p>
                 <h2>How you can find us</h2>
                 </div>
                 <div className="row align-items-center">
