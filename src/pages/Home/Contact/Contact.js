@@ -31,7 +31,7 @@ const Contact = () => {
                                 <FcFeedback className='bg-light p-2 rounded-circle' style={{fontSize : '3rem'}}/>
                                 <div className='ms-3'>
                                     <h6 className='m-0'>Email</h6>
-                                    <p>xyz@gmail.com <br /> abc@gmail.com</p>
+                                    <p>xyz@gmail.com <br /> abcd@gmail.com</p>
                                 </div>
                             </div>
                         </div>
