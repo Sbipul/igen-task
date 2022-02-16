@@ -15,7 +15,7 @@ const Banner = () => {
                     <div className='w-100 position-absolute top-35 h-100'>
                         <h3 className='ff' style={{fontSize : '3rem'}}>WE ARE CRYPTIC FATE</h3>
                         <p style={{textAlign:'justify'}} className='w-res mx-auto'>Lorem ipsum dolor si soluta sequi perferendis tenetur. Ipsa nam iusto exercitationem eos quod eaque perferendis esse amet ad quas. Exercitationem et voluptatibus rerum numquam ratione, dicta quod omnis earum sit architecto.</p>
-                        <Button className='rounded-pill'>Contact Noww</Button>
+                        <Button className='rounded-pill'>Contact Now</Button>
                     </div>
                 </div>
             </Carousel.Item>
